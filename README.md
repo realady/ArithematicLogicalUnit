@@ -1,0 +1,47 @@
+# 8-Bit Arithmetic Logic Unit (ALU) Implementation
+
+## Overview
+
+This project implements an 8-bit Arithmetic Logic Unit (ALU) using Verilog, along with a testbench to verify its functionality. The ALU performs common arithmetic (addition, subtraction) and logic (AND, OR, XOR, NAND, NOR, XNOR) operations on two 8-bit input buses based on selection inputs.
+
+## Prerequisites
+
+- Verilog compiler (e.g., Icarus Verilog)
+- Simulation tool (e.g., GTKWave)
+- Python (for input handling)
+
+## Running the Simulation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/not-adarsh/ArithematicLogicalUnit.git
+   ```
+
+2. Incase you are using Icarus verilog
+    - Move this folder to `C:/iverilog/bin` folder on ***Windows***.
+    - Move this folder to `usr/iverilog/bin` folder on ***Linux***.
+
+3. Navigate to the project directory:
+
+   ```bash
+   cd ArithematicLogicalUnit
+   ```
+
+4. Run the Python script to compile and simulate the Verilog code:
+
+   ```bash
+   python main.py
+   ```
+
+## Contributors
+
+- Adarsh
+- Yashvardhan Dhaka
+- Arindam Singh
+- Kavit Shukla
+- Saksham Gupta
+
+## GitHub Repository
+
+[ArithematicLogicalUnit](https://github.com/not-adarsh/ArithematicLogicalUnit.git)
