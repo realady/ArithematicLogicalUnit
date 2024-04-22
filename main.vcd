@@ -1,5 +1,5 @@
 $date
-	Tue Apr 23 00:36:19 2024
+	Tue Apr 23 00:50:02 2024
 $end
 $version
 	Icarus Verilog
@@ -22,13 +22,13 @@ $upscope $end
 $enddefinitions $end
 #0
 $dumpvars
-b111 (
-b1 '
+b1110 (
+b0 '
 b11 &
-b1010 %
-b1 $
+b1011 %
+b0 $
 b11 #
-b1010 "
-b111 !
+b1011 "
+b1110 !
 $end
 #100
