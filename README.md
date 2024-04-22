@@ -45,3 +45,7 @@ This project implements an 8-bit Arithmetic Logic Unit (ALU) using Verilog, alon
 ## GitHub Repository
 
 [ArithematicLogicalUnit](https://github.com/not-adarsh/ArithematicLogicalUnit.git)
+
+## REFERENCE
+
+For more detailed documentation, please refer to [this Google Docs document](https://docs.google.com/document/d/1Rwwk8pRlKEFDAfGIxl2h4GcjchPHSH-_R2WrBlWzMzM/edit?usp=sharing).
