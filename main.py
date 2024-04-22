@@ -12,14 +12,17 @@ print('''
 |      111 - XNOR OPERATION              |
 |                                        |
  ---------------------------------------
+      
 ''')
 
 opcode = input("Enter opcode: ")
 
 print('''
+      
  ---------------------------------------
 |      ENTER THE VALUES IN BINARY        |
  ---------------------------------------
+      
 ''')
 
 A = input("Enter A: ")
@@ -30,6 +33,7 @@ os.system("iverilog -o main mainTB.v")
 os.system("vvp main")
 
 print('''
+      
  ---------------------------------------
 |                                       |
 |      CREATED BY :                     |
@@ -40,4 +44,5 @@ print('''
 |      - Saksham Gupta                  |
 |                                       |
  ---------------------------------------
+      
 ''')
