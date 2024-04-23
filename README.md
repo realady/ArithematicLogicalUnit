@@ -1,5 +1,5 @@
 # 8-Bit Arithmetic Logic Unit (ALU) Implementation
-
+### CURRENTLY LOOKING TO IMPLEMENT VEDIC MATHEMATICS TO IT (WE WILL LOVE A GOOD PR 💗)
 ## Overview
 
 This project implements an 8-bit Arithmetic Logic Unit (ALU) using Verilog, along with a testbench to verify its functionality. The ALU performs common arithmetic (addition, subtraction) and logic (AND, OR, XOR, NAND, NOR, XNOR) operations on two 8-bit input buses based on selection inputs.
